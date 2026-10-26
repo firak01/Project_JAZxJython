@@ -1,4 +1,4 @@
-# Projekt_JAZRepositoryDummyTemplate
+# Projekt_Kernel02_JAZRepositoryDummyTemplate
 Neues Repository anhand dieser Vorlage erstellen.
 Das neue Repository lokal clonen.<br>
 Umbennung des Verzeichnisordners "...TEMPLATE..." kann in der "normalen" GitHub - Seite nicht erfolgen. Git kann auch keine Verzeichnisse umbenennen.
@@ -24,22 +24,3 @@ Dabei dann den gewünschten Java-Projektnamen vergeben, etc.
 WICHTIG:<br> 
 Es reicht nicht aus dieses Projekt selbst zu klonen und dann die Projektnamens - Umbenennungen durchzuführen.
 Man bekommt dann ja kein eigenständiges Repository und würde nur mit diesem Template Repository arbeiten.
-
--------------------------------------------
-Anschliessend: 
-In Eclipse die notwendigen Eigenschaften hinzufügen.
-Bei JAZ-Projekten ist das die "Facet Form" Java.
-
--------------------------------------------
-Merke:<BR>
-Die Datei README.md wird hier als "Linked Resource" eingebunden über den Pfad "PROJECT_LOC\\..\README.md".
-
-Dann kann man sie mit dem Plugin mylin.Wikitext bearbeiten<br>
-Doku zu dem Plugin:<br>
-https://help.eclipse.org/latest/index.jsp?topic=%2Forg.eclipse.mylyn.wikitext.help.ui%2Fhelp%2FGetting-Started.html<BR>
-
-Tip zu dem Plugin:<BR>
-Im Editor F1 drücken. Dann kommt eine Kurzreferenz mit den Markdown Struktur-Anweisungen
-
-
-
